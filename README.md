@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin Botinoli</h1>
+<h1 align="center">Hi 👋, I'm Martin Botina</h1>
 <h3 align="center">Systems Engineering Student | Universidad Nacional de Colombia</h3>
 
 ---
@@ -15,7 +15,7 @@ Currently building academic and personal software projects
 ## Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,git" />
 </p>
 
 ---
