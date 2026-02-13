@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Martin Botinoli</h1>
+<h3 align="center">Systems Engineering Student | Universidad Nacional de Colombia</h3>
 
-<!--
-**martini-botiniol/martini-botiniol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems Engineering student at UNAL  
+Passionate about Data Structures, Algorithms and System Design  
+Interested in Low-Level Programming, Operating Systems and Performance  
+Currently building academic and personal software projects  
+
+---
+
+## Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,linux,git" />
+</p>
+
+---
+
+## Contact
+
+📧 Email: (mbotina@unal.edu.co)
+
