@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Martin Botina</h1>
+<h1 align="center">\
+    <img src="https://cdn.discordapp.com/emojis/870874520527970324.webp?size=96" width="45" style="vertical-align: middle;" />
+    Hi , I'm Martin Botina
+</h1>
 <h3 align="center">Systems Engineering Student | Universidad Nacional de Colombia</h3>
 
 ---
