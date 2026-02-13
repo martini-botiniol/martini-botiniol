@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img src="https://cdn.discordapp.com/emojis/870805972443070474.webp?size=96" width="45" style="vertical-align: middle;" />
     Hi , I'm Martin Botina
+    <img src="https://cdn.discordapp.com/emojis/870805972443070474.webp?size=96" width="45" style="vertical-align: middle;" />
 </h1>
 <h3 align="center">Systems Engineering Student | Universidad Nacional de Colombia</h3>
 
