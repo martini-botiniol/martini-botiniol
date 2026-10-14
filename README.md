@@ -15,12 +15,15 @@ Currently building academic and personal software projects
 
 ---
 
-## Technologies & Tools
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,c,powershell,bash)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,git" />
-</p>
+### Frameworks & Databases
+![Frameworks](https://skillicons.dev/icons?i=django,flask,postgres,sqlite)
 
+### Infrastructure & Tools
+![Tools](https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,vscode,cloudflare,nginx)
+  
 ---
 
 ## Contact
